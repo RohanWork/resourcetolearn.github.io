@@ -1,5 +1,20 @@
 /* Move down content because we have a fixed navbar that is 50px tall */
 body {
-    padding-top: 50px;
-    padding-bottom: 20px;
-  }
+  padding-top: 50px;
+  padding-bottom: 20px;
+}
+
+.footerSec {
+  font-weight: bold !important;
+  font-size: 18px !important;
+  text-align: center !important;
+  margin: auto !important;
+}
+
+li {
+  font-size: 15px !important;
+}
+
+.btn {
+  font-size: 12px !important;
+}
